@@ -1,4 +1,4 @@
-# AI-Chatbot-Final-Year-Project
+# AI Chatbot Final Year Project
 AI Chatbot NLTK Project with Code, Documents And Video Tutorial
 
 ![AI CHATBOT](https://user-images.githubusercontent.com/91561594/166829508-5d0f4e3b-d88a-4e1c-a33b-47db846e6b47.png)
